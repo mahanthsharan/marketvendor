@@ -215,8 +215,4 @@ If you encounter issues:
 
 MIT License - Feel free to use in your projects
 
----
 
-**Created**: 2024  
-**Status**: Production Ready  
-**Last Updated**: 2024
